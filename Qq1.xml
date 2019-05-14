@@ -10139,10 +10139,10 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
-<NewNotificationsListFilter>fakse</NewNotificationsListFilter>
+<NewNotificationsListFilter>true</NewNotificationsListFilter>
 <tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 <NewNotificationsList>true</NewNotificationsList>
-<NewNotificationsListHistory>true</NewNotificationsListHistory>
+<NewNotificationsListHistory>false</NewNotificationsListHistory>
 <NewNotificationsListSearch>true</NewNotificationsListSearch>
 <newPushAutoTurn>true</newPushAutoTurn>
 </node>
