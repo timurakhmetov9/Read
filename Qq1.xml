@@ -9834,7 +9834,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 <forcedHistoryQuery>true</forcedHistoryQuery>
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
-<NewNotificationsListFilter>true</NewNotificationsListFilter>
+<
+ Filter>true</NewNotificationsListFilter>
 <tutorialAboutAutomaticTransferTPUSettings>false</tutorialAboutAutomaticTransferTPUSettings>
 <NewNotificationsList>true</NewNotificationsList>
 <NewNotificationsListHistory>true</NewNotificationsListHistory>
@@ -10140,7 +10141,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/Rus.json
 <forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
 <NewNotificationsListFilter>true</NewNotificationsListFilter>
 <tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
-<NewNotificationsList>true</NewNotificationsList>
+<NewNotificationsList>false</NewNotificationsList>
 <NewNotificationsListHistory>true</NewNotificationsListHistory>
 <NewNotificationsListSearch>true</NewNotificationsListSearch>
 <newPushAutoTurn>true</newPushAutoTurn>
