@@ -11588,7 +11588,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 					<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
 					<ShowNotificationTerm>true</ShowNotificationTerm>
 					<mobileBankActivateFlow_2>true</mobileBankActivateFlow_2>
-					<changePhoneAndTariffFromProfileEditor>true</changePhoneAndTariffFromProfileEditor>
+					<changePhoneAndTariffFromProfileEditor>false</changePhoneAndTariffFromProfileEditor>
 					<mobileBankDeactivateFlow_2>true</mobileBankDeactivateFlow_2>
 				</node>
 				<node id="194.186.207.23">
