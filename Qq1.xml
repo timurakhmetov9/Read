@@ -3164,7 +3164,7 @@ https://test.stat.online.sberbank.ru/Dialogues/SberkotNewYear.mp4
 					<efsMobileBank>true</efsMobileBank>
 					<pushAlertEnabled>true</pushAlertEnabled>
 				</node>
-				<node id="ift-node2-mp.testonline.sberbank.ru">
+				<node id="ift-node7-mp.testonline.sberbank.ru">
 					<efsMobileBank>true</efsMobileBank>
 					<pushAlertEnabled>true</pushAlertEnabled>
 				</node>
@@ -11026,7 +11026,9 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<TransferMethodHA>manual</TransferMethodHA>
 					<TransferMethodTC>true</TransferMethodTC>
 				</node>
-				<node id="ift-node2-mp.testonline.sberbank.ru">
+				<node id="ift-node7-mp.testonline.sberbank.ru">
+					<changePhoneAndTariffFromProfileEditor>true</changePhoneAndTariffFromProfileEditor>
+					
 					<buttonToPostLogin>true</buttonToPostLogin>
 					<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 					<MFMSMessageRequestType>2</MFMSMessageRequestType>
@@ -11632,7 +11634,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 					<mobileBankActivateFlow_2>true</mobileBankActivateFlow_2>
 					<mobileBankDeactivateFlow_2>true</mobileBankDeactivateFlow_2>
 				</node>
-				<node id="ift-node2-mp.testonline.sberbank.ru">
+				<node id="ift-node7-mp.testonline.sberbank.ru">
 					<mobileBankFromSetting>true</mobileBankFromSetting>
 					<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
 					<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
