@@ -5508,6 +5508,7 @@ https://www.sberbank.ru/ru/person/help-center/bankrupt
 		</param>
 		<param name="SpecialTutorialUID" description="Туториалы из списка 'специальные' и должны показываться при каждой регистрации">
 			<tutorials>
+				<tutorial UID="TransactionPushAutoTransferKey"/>
 				<tutorial UID="TutorialAnalyticsAgreement"/>
 				<tutorial UID="TutorialIncognitoKey"/>
 				<tutorial UID="TutorialStatementsKey"/>
