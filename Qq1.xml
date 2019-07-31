@@ -2,8 +2,6 @@
 	<params>
 		<param name="VoiceControl" description="Голосовое управление в мобильном приложении">
 			<type>list</type>
-ER
-
 			<enabled>true</enabled>
 			<nodes>
 				<node id="node0.online.sberbank.ru">
