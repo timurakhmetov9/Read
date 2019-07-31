@@ -3891,7 +3891,7 @@ https://www.sberbank.ru/dl/jc/psi/index.html?channel=
 					<efsMobileBank>true</efsMobileBank>
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
-					<efsMobileBank>false</efsMobileBank>
+					<efsMobileBank>true</efsMobileBank>
 					<pushAlertEnabled>true</pushAlertEnabled>
 				</node>
 				<node id="ift-node0-mp.testonline.sberbank.ru">
@@ -13548,7 +13548,7 @@ https://stat.online.sberbank.ru/PhizIC-res/IMG/PU/20/63/61/2b26d928c6b985710071f
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
 					<mobileBankFromSetting>true</mobileBankFromSetting>
-					<mobileBankFromCardSetting>true</mobileBankFromCardSetting>
+					<mobileBankFromCardSetting>false</mobileBankFromCardSetting>
 					<CardPhoneListCacheEnabled>true</CardPhoneListCacheEnabled>
 					<mobileBankChangePhone>true</mobileBankChangePhone>
 					<FullTariffTurnOffEnabled>true</FullTariffTurnOffEnabled>
