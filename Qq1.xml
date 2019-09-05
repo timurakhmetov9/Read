@@ -6095,6 +6095,7 @@ https://www.sberbank.ru/ru/person/help-center/bankrupt
 				<tutorial UID="TutorialAnalyticsAgreement"/>
 				<tutorial UID="TutorialIncognitoKey"/>
 				<tutorial UID="TutorialStatementsKey"/>
+				<tutorial UID="TransactionPushAutoTransferKey"/>
 			</tutorials>
 		</param>
 		<param name="iOSAppDesing" description="Парамтеры iOS App Design">
